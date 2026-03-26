@@ -15,7 +15,6 @@ Given an option's parameters, calculates:
 | **Theta** | Time decay (value lost per day) |
 
 Also generates plots of option price and delta across a range of spot prices.
-(https://github.com/user-attachments/assets/54758915-0151-439b-b4eb-a8f8cf966f82)
 
 ![Option price vs spot price](https://github.com/user-attachments/assets/54758915-0151-439b-b4eb-a8f8cf966f82)
 
